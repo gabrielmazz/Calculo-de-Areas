@@ -25,32 +25,39 @@ O algoritmo foi desenvolvido no intuito de aprofundar um pouco os conhecimento s
 
 ## Definições de cada objeto:
 
-| Área do Triângulo | $$ A=\frac{b.h}{2} $$ | ![Equilátero](img/triangulo.png) |
-| --- | --- | --- |
+$$ Área_{triangulo}=\frac{b.h}{2} $$ 
 
-| Área do Trapézio | $$ A=\frac{(B+b).h}{2} $$ | ![Trapézio](img/trapezio.png) |
-| --- | --- | --- |
+---
 
-| Área do Paralelogramo | $$ A=b.h $$ | ![Paralelogramo](img/paralelogramo.png) |
-| --- | --- | --- |
+$$ Área_{trapezio}=\frac{(B+b).h}{2} $$
 
-| Área do Losango | $$ A=\frac{(D.d)}{2} $$ | ![Losango](img/losango.png) |
-| --- | --- | --- |
+---
 
-| Área do Triângulo Equilátero | $$ A=\frac{l^2\sqrt{3}}{4} $$ | ![Triângulo Equilátero](img/triangulo_equilatero.png) |
-| --- | --- | --- |
+$$ Área_{paralelogramo}=b.h $$ 
 
-| Área Hexágono Regular | $$ A=\frac{3l^2\sqrt{3}}{2} $$ | ![Hexágono Regular](img/hexagono_regular.png) |
-| --- | --- | --- |
+---
 
-| Área do Círculo | $$ A=\pi.r^2 $$ | ![Círculo](img/circulo.png) |
-| --- | --- | --- |
+$$ Área_{losango}=\frac{(D.d)}{2} $$
 
-| Área do Setor Circular | $$ A=\frac{\alpha.r^2}{2} $$ | ![Setor Circular](img/setor_circular.png) |
-| --- | --- | --- |
+---
 
-| Área da Coroa | $$ A=\pi.(R^2-r^2) $$ | ![Coroa](img/coroa.png) |
-| --- | --- | --- |
+$$ Área_{triângulo_{equilátero}}=\frac{l^2\sqrt{3}}{4} $$
+
+---
+
+$$ Área_{hexágono_{Regular}}=\frac{3l^2\sqrt{3}}{2} $$
+
+---
+
+$$ Área_{circulo}=\pi.r^2 $$
+
+---
+
+$$ Área_{setor_{circular}}=\frac{\alpha.r^2}{2} $$
+
+---
+
+$$ Área_{coroa}=\pi.(R^2-r^2) $$
 
 ---
 
